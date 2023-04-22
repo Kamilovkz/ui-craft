@@ -1,4 +1,4 @@
-# uicraft-idea
+# ÚI-CRAFT 
 
 This repository contains the concept and idea for the UI-CRAFT project, a platform for ordering custom furniture using AI and ML technology. The aim of the project is to solve the problem of limited choice and time constraints that people often face when purchasing furniture from local stores, as well as addressing issues related to unreliable contractors and fraudulent practices in the furniture industry.
 Features
