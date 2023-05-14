@@ -21,6 +21,11 @@ The next steps for the project include securing funding, developing the technolo
 
 We welcome contributions from developers, designers, and anyone else interested in helping to bring this project to life. Please see the CONTRIBUTING.md file for more information.
 
+## Install and run project
+
+1. docker build --tag python-django .
+2. docker run --publish 8000:8000 python-django
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
