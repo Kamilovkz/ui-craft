@@ -2,7 +2,7 @@
 /env
 .env
 .env.docker-compose
-/uiproject/env/
+uiproject/env/
 *.pyc
 
 .idea
